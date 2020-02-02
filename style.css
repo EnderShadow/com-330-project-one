@@ -20,11 +20,11 @@ body {
 
 h1 {
     font-weight: bold;
-    font-size: 1.5em; /* 33px / 22px */
-    line-height: 1em; /* 33px / 33px */
-    padding-bottom: 0.666em; /* 22px / 33px */
+    font-size: 1.5em; /* 27px / 18px */
+    line-height: 1em; /* 27px / 27px */
+    padding-bottom: 0.666em; /* 18px / 27px */
 }
 
 p {
-    padding-bottom: 1em; /* 22px / 22px */
+    padding-bottom: 1em; /* 18px / 18px */
 }
