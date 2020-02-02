@@ -8,9 +8,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.1875em; /* 19 / 16 */
-    line-height: 1.1875em; /* 19 / 16 */
-    padding: 1.1875em 1.78125em; /* 19 / 16 and 150% of that */
+    font-size: 1.125em; /* 18px / 16px */
+    line-height: 1.222em; /* 22px / 18px */
+    padding: 1.222em 1.8333em; /* 22px / 18px and 150% of that */
 }
 
 body {
@@ -20,11 +20,11 @@ body {
 
 h1 {
     font-weight: bold;
-    font-size: 1.484375em; /* 125% of font size */
-    line-height: 1.484375em; /* 125% of font size */
-    padding-bottom: 0.3958333333333333em; /* 1 third of font size */
+    font-size: 1.5em; /* 33px / 22px */
+    line-height: 1em; /* 33px / 33px */
+    padding-bottom: 0.666em; /* 22px / 33px */
 }
 
 p {
-    padding-bottom: 1.1875em; /* 19 / 16 */
+    padding-bottom: 1em; /* 22px / 22px */
 }
