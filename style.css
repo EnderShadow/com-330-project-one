@@ -7,24 +7,24 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles... */
 
 html {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.125em; /* 18px / 16px */
-    line-height: 1.222em; /* 22px / 18px */
-    padding: 1.222em 1.8333em; /* 22px / 18px and 150% of that */
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.125em; /* 18px / 16px */
+  line-height: 1.222em; /* 22px / 18px */
+  padding: 1.222em 1.8333em; /* 22px / 18px and 150% of that */
 }
 
 body {
-    background-color: #333;
-    color: #ddd;
+  background-color: #333;
+  color: #ddd;
 }
 
 h1 {
-    font-weight: bold;
-    font-size: 1.5em; /* 27px / 18px */
-    line-height: 1em; /* 27px / 27px */
-    padding-bottom: 0.666em; /* 18px / 27px */
+  font-weight: bold;
+  font-size: 1.5em; /* 27px / 18px */
+  line-height: 1em; /* 27px / 27px */
+  padding-bottom: 0.666em; /* 18px / 27px */
 }
 
 p {
-    padding-bottom: 1em; /* 18px / 18px */
+  padding-bottom: 1em; /* 18px / 18px */
 }
