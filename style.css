@@ -31,17 +31,28 @@ p {
 
 img {
   display: block;
+  max-width: 100%;
+}
+
+.photo {
+  padding: 0.6111em;
+  background: #222;
+  color: #eee;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  padding-bottom: 1.222em;
+  margin-bottom: 1.222em
 }
 
-@media only screen and (min-width: 480px) {
-  img {
-    height: 12.222em;
-    width: auto;
+@media only screen and (min-width: 960px) {
+  .photo {
+    width: 25em; /* This might not be the best way to fix the width of the image */
+    margin-left: 0; /* Don't center the image on a desktop browser */
   }
+}
+
+.photo figcaption {
+  padding-top: 0.6111em;
 }
 
 /** A quick baseline grid overlay using css+svg. Inspired by [Basehold.it](https://basehold.it/). @author leshido */
